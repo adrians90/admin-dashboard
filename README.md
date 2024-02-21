@@ -6,3 +6,4 @@ Most of the styling is done with CSS grid but some containers are aligned with f
 The page scales when the browser window size changes.
 
 Live link:
+https://adrians90.github.io/admin-dashboard/
