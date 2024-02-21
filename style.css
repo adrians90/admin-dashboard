@@ -29,3 +29,11 @@
     grid-column: 2/-1;
 }
 
+.sidebar-items {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(10, 1fr);
+    justify-items: start;
+    align-items: start;
+    gap: 12px;
+}
